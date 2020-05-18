@@ -1,0 +1,38 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.header {
+
+	line-height: 51px;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 46px;
+}
+nav {
+	/* display: flex; */
+	/* justify-content: space-between; */
+	text-align: center;
+	line-height: 21px;
+}
+.header ul li a {
+	display: block;
+	text-decoration: none;
+	margin-right: 20px;
+	color: #fff;
+	line-height: 16px;
+}
+
+.header ul li{
+    list-style: none;
+    float: right;
+}
+.header ul li a{
+    display: block;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.nav-brand {
+	color: #fff;
+	margin-left: 20px;
+}

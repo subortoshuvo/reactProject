@@ -1,0 +1,7 @@
+.flex{
+    display: flex;
+}
+.left {
+	margin-left: 28px;
+	margin-top: -17px;
+}
